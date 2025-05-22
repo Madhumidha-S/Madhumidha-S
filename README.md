@@ -46,10 +46,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt="Profile Views" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhumidha-S&show_icons=true&theme=radical" alt="Madhumidha's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumidha-S&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhumidha-S&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhumidha-S&theme=radical) |
+| --- | --- |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumidha-S&theme=radical&layout=compact) | ![GitHub Summary](https://github-readme-stats.vercel.app/api?username=Madhumidha-S&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Summary&disable_animations=true&theme=radical) |
+
 
 
 ---
