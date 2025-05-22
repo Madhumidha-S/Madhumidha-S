@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Madhumidha-S">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=👩‍🎨+Creative+Designer+%7C+UI%2FUX+Explorer;💡+Code.+Design.+Innovate.;🛠️+Crafting+Code+that+Connects+Ideas+with+Impact!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Creative+Designer+%7C+UI%2FUX+Explorer;Code.+Design.+Innovate.;Crafting+Code+that+Connects+Ideas+with+Impact!" alt="Typing SVG">
   </a>
 </p>
 
@@ -51,7 +51,8 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhumidha-S&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhumidha-S&theme=radical) 
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhumidha-S&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhumidha-S&theme=radical) |
+| --- | --- |
 
 <div align="center">
 
