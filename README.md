@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Madhumidha</h1>
 <h3 align="center">🌱 A passionate learner, developer & designer</h3>
 
-<p align="center">
-  <a href="https://github.com/Madhumidha-S">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines= +Creative+Designer+%7C+UI%2FUX+Explorer;💡+Code.+Design.+Innovate.;🛠️+Crafting+Code+that+Connects+Ideas+with+Impact!" alt="Typing SVG">
-  </a>
-</p>
+<a href="https://github.com/Madhumidha-S">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=👩‍🎨+Creative+Designer+%7C+UI%2FUX+Explorer;💡+Code.+Design.+Innovate.;🛠️+Crafting+Code+that+Connects+Ideas+with+Impact!" alt="Typing SVG">
+</a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Madhumidha-S&style=plastic&color=blueviolet" alt="Profile Views"/>
@@ -60,8 +58,9 @@
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhumidha-S&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhumidha-S&theme=radical) |
 | --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumidha-S&theme=radical&layout=compact) |
-
+<center>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumidha-S&theme=radical&layout=compact)
+</center>
 
 
 ---
