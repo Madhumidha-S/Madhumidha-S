@@ -59,6 +59,7 @@
 ### 📊 GitHub Stats
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhumidha-S&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhumidha-S&theme=radical) |
+| --- | --- |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumidha-S&theme=radical&layout=compact) |
 
 
@@ -75,7 +76,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://x.com/Madhumidha_22" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
