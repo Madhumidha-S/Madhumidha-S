@@ -41,10 +41,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhumidha-S&show_icons=true&theme=radical" alt="Madhumidha's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumidha-S&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
+<table> <tr> <td valign="top"> <p align="center"> <img src="https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt="Profile Views"/> </p> <h4 align="center">Madhumidha's GitHub Stats</h4> <ul> <li>⭐ <strong>Total Stars Earned:</strong> 0</li> <li>⏰ <strong>Total Commits (2025):</strong> 89</li> <li>🔀 <strong>Total PRs:</strong> 2</li> <li>❗ <strong>Total Issues:</strong> 0</li> <li>📅 <strong>Contributed to (last year):</strong> 1</li> </ul> </td> <td valign="top"> <h4 align="center">Most Used Languages</h4> <ul> <li>🟪 Kotlin: 33.43%</li> <li>🔴 C++: 23.66%</li> <li>🟣 CSS: 16.04%</li> <li>🟠 HTML: 14.04%</li> <li>🟡 JavaScript: 8.94%</li> <li>🟤 EJS: 3.89%</li> </ul> </td> </tr> </table>
 
 ---
 
