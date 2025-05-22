@@ -39,13 +39,7 @@
 
 ---
 
-### 📈 GitHub Stats
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt="Profile Views" />
-</p>
+### 📊 GitHub Stats
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhumidha-S&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhumidha-S&theme=radical) |
 | --- | --- |
