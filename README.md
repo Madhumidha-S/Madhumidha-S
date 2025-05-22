@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Madhumidha</h1>
----
 <h3 align="center">🌱 A passionate learner, developer & designer</h3>
 
 <p align="center">
-  <a href="https://github.com/Madhumidha-S">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=👩‍🎨+Creative+Designer+%7C+UI%2FUX+Explorer;💡+Code.+Design.+Innovate.;🛠️+Crafting+Code+that+Connects+Ideas+with+Impact!" alt="Typing SVG">
-</a>
-
+  <img src="https://komarev.com/ghpvc/?username=Madhumidha-S&style=plastic&color=blueviolet" alt="Profile Views"/>
+  <a href="https://github.com/Madhumidha-S?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/Madhumidha-S?label=Follow&style=social" alt="GitHub Followers"/>
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Madhumidha-S&style=plastic&color=blueviolet" alt="Profile Views"/>
@@ -17,11 +17,8 @@
 
 ### 👩‍💻 About Me
 
-- 📱 Passionate about building **user-friendly web apps** and **mobile UI designs**.
-
 - 💻 Currently sharpening skills in **React**, **Node.js**, and **REST APIs**
 - 🚀 Passionate about building **Full-Stack Web applications** and **Responsive UIs**
-- 🧠 Exploring technologies and frameworks like **Git**, **PostgreSQL**, **Express.js** and **MongoDB** to build scalable applications
 - 📲 Interested in designing **Intuitive Interfaces** that enhance **User Experience across platforms**
 - 🤝 Excited to collaborate on **Developer-focused projects** solving real-world problems
 
@@ -57,13 +54,11 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 
-
 ---
 
 ### 📊 GitHub Stats
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhumidha-S&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhumidha-S&theme=radical) |
-| --- | --- |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumidha-S&theme=radical&layout=compact) |
 
 
@@ -78,6 +73,9 @@
   </a>
   <a href="mailto:madhumidha072005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/Madhumidha_22" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
