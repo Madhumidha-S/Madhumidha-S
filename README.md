@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Madhumidha-S">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Creative+Designer+%7C+UI%2FUX+Explorer;Code.+Design.+Repeat.;Always+Learning+Something+New+!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Creative+Designer+%7C+UI%2FUX+Explorer;Code.+Design.+Repeat.;Always+Learning+Something+New+!">
   </a>
 </p>
 
@@ -51,10 +51,10 @@
 ### 🤝 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/madhumidha-s-0579bb214/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@example.com" target="_blank">
+  <a href="mailto:madhumidha072005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
