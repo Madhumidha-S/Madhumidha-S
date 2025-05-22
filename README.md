@@ -52,8 +52,12 @@
 ### 📊 GitHub Stats
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhumidha-S&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhumidha-S&theme=radical) |
+| --- | --- |
+
 <div align="center">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumidha-S&theme=radical&layout=compact)
+
 </div>
 
 ---
