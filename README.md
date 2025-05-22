@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Madhumidha</h1>
+![image](https://github.com/user-attachments/assets/98b4a5a5-4b1c-45e7-b140-10feca425550)<h1 align="center">Hi 👋, I'm Madhumidha</h1>
 <h3 align="center">🌱 A passionate learner, developer & designer</h3>
 
 <p align="center">
   <a href="https://github.com/Madhumidha-S">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=👩‍🎨+Creative+Designer+%7C+UI%2FUX+Explorer;💡+Code.+Design.+Innovate.;🛠️+Crafting+Code+that+Connects+Ideas+with+Impact!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=👩‍🎨+Creative+Designer+%7C+UI%2FUX+Explorer;💡+Code.+Design.+Innovate.;🛠️+Crafting+Code+that+Connects+Ideas+with+Impact!" alt="Typing SVG">
   </a>
 </p>
 
@@ -25,34 +25,27 @@
 
 ---
 
-### 🛠️ My Tech Toolbox
+### 🛠️ Tech Stacks
 
-#### Programming & Markup
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-#### Frameworks & Libraries
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-
-#### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -60,7 +53,7 @@
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhumidha-S&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhumidha-S&theme=radical) |
 | --- | --- |
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumidha-S&theme=radical&layout=compact)
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumidha-S&theme=radical&layout=compact) |
 
 ---
 
