@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Madhumidha-S">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=800&color=B026FFcenter=true&vCenter=true&width=800&lines=👩‍🎨+Creative+Designer+%7C+UI%2FUX+Explorer;💡+Code.+Design.+Innovate.;🛠️+Crafting+Code+that+Connects+Ideas+with+Impact!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=B026FFcenter=true&vCenter=true&width=1000&lines=👩‍🎨+Creative+Designer+%7C+UI%2FUX+Explorer;💡+Code.+Design.+Innovate.;🛠️+Crafting+Code+that+Connects+Ideas+with+Impact!" alt="Typing SVG">
   </a>
 </p>
 
