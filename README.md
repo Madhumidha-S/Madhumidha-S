@@ -2,15 +2,16 @@
 <h3 align="center">🌱 A passionate learner, developer & designer</h3>
 
 <p align="center">
+  <a href="https://github.com/Madhumidha-S">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines= +Creative+Designer+%7C+UI%2FUX+Explorer;💡+Code.+Design.+Innovate.;🛠️+Crafting+Code+that+Connects+Ideas+with+Impact!" alt="Typing SVG">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Madhumidha-S&style=plastic&color=blueviolet" alt="Profile Views"/>
   <a href="https://github.com/Madhumidha-S?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/Madhumidha-S?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Madhumidha-S&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
 
 ---
@@ -45,11 +46,10 @@
 #### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
