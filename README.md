@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhumidha</h1>
-<h3 align="center">🌱 A passionate learner, developer & designer</h3>
+<h3 align="center">A passionate learner, developer & designer</h3>
 
 <p align="center">
   <a href="https://github.com/Madhumidha-S">
@@ -16,16 +16,16 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
-- 💻 Currently sharpening skills in **React**, **Node.js**, and **REST APIs**
-- 🚀 Passionate about building **Full-Stack Web applications** and **Responsive UIs**
-- 📲 Interested in designing **Intuitive Interfaces** that enhance **User Experience across platforms**
-- 🤝 Excited to collaborate on **Developer-focused projects** solving real-world problems
+- Currently sharpening skills in **React**, **Node.js**, and **REST APIs**
+- Passionate about building **Full-Stack Web applications** and **Responsive UIs**
+- Interested in designing **Intuitive Interfaces** that enhance **User Experience across platforms**
+- Excited to collaborate on **Developer-focused projects** solving real-world problems
 
 ---
 
-### 🛠️ Tech Stacks
+### Tech Stacks
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
@@ -48,7 +48,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhumidha-S&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhumidha-S&theme=radical) |
 | --- | --- |
@@ -61,7 +61,7 @@
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/madhumidha-s-0579bb214/">
