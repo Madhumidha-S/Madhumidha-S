@@ -1,57 +1,96 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=20C20E&width=435&lines=console.log(%22Hi+there!%22)%3B;user%40madhumidha%3A~%24+coding+...;Building+Digital+ Experiences...;Crafting+Code+that+Matters." alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Madhumidha&desc=Full%20Stack%20Developer%20%7C%20Designer%20%7C%20Innovator&fontSize=80&fontAlignY=35&descAlignY=60&descAlign=50" alt="Header" />
 </div>
-
-<br />
 
 <div align="center">
-  <pre>
-  <code>
-{
-  "name": "Madhumidha Name",
-  "role": "Full Stack Developer",
-  "status": "Learning & Building",
-  "code": ["Javascript", "Python", "Java", "C++"],
-  "tools": ["React", "Node.js", "MongoDB", "Git"],
-  "challenge": "Center a div in 5 ways"
-}
-  </code>
-  </pre>
-</div>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Madhumidha-S&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Madhumidha-S" />
+  </a>
 
-<br />
+  <br />
+  <br />
 
-### `~/skills`
+  <p align="center" width="60%">
+    <i>
+      "Crafting digital experiences where logic meets creativity. I specialize in building scalable web applications and intuitive interfaces that solve real-world problems."
+    </i>
+  </p>
 
-```javascript
-const techStack = {
-  languages: ["JavaScript", "Python", "Java", "C++"],
-  frontend: ["React", "HTML5", "CSS3", "Bootstrap"],
-  backend: ["Node.js", "Express.js", "MongoDB", "MySQL"],
-  tools: ["Git", "VSCode", "Figma", "PostgreSQL"]
-};
-```
+  <br />
 
-### `~/stats`
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhumidha-S&show_icons=true&theme=gotham&count_private=true&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumidha-S&theme=gotham&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
-### `~/contact`
-
-<p align="left">
+  <a href="mailto:madhumidha072005@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/madhumidha-s-0579bb214/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:madhumidha072005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
+</div>
+
+<br />
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Smart-Learn](https://github.com/Madhumidha-S/Smart-Learn)** | An intelligent learning platform designed to personalize education paths for students using adaptive algorithms. | `React` `Node.js` `MongoDB` |
+| **[FlashTalks](https://github.com/Madhumidha-S/FlashTalks)** | A real-time chat application featuring instant messaging, user authentication, and a responsive UI. | `Socket.io` `Express` `React` |
+| **[Pip-Chatbot](https://github.com/Madhumidha-S/Pip-Chatbot)** | An interactive AI chatbot capable of handling customer queries and providing automated support. | `Python` `NLP` `Flask` |
+| **[Crony-Cart](https://github.com/Madhumidha-S/Crony-Cart)** | A full-featured e-commerce shopping cart solution with payment integration and order management. | `MERN Stack` `Redux` |
+
+<br />
+
+## 🛠️ Technical Skills
+
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="130">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="130">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+     <td align="center" width="130">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="130">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>Node.js
+    </td>
+    <td align="center" width="130">
+      <img src="https://techstack-generator.vercel.app/mongo-icon.svg" alt="icon" width="65" height="65" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="130">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## 📊 GitHub Analytics
 
 <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=Madhumidha-S&style=flat-square&color=20C20E&label=VIEWS" alt="Profile Views"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhumidha-S&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=0077b5&icon_color=0077b5" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumidha-S&theme=transparent&layout=compact&langs_count=8&hide_border=true&title_color=0077b5" alt="languages" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
 </div>
