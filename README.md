@@ -47,12 +47,7 @@ const developer = {
 
 <br />
 
-## `<Stats />`
 
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhumidha-S&show_icons=true&theme=transparent&hide_border=true" alt="stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumidha-S&theme=transparent&layout=compact&langs_count=6&hide_border=true" alt="languages" height="150" />
-</div>
 
 <br />
 
