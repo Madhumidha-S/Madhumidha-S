@@ -50,7 +50,7 @@ const developer = {
 ## `<Stats />`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Madhumidha-S/Madhumidha-S/main/github-metrics.svg" alt="Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/Madhumidha-S/Madhumidha-S/v1/github-metrics.svg" alt="Metrics" width="100%" />
 </div>
 
 <br />
