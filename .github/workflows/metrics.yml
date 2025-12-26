@@ -26,9 +26,14 @@ jobs:
 
           # Options
           user: Madhumidha-S
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
+          config_theme: dark
+          plugin_lines: yes
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
