@@ -26,7 +26,7 @@ jobs:
 
           # Options
           user: Madhumidha-S
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
           plugin_languages: yes
