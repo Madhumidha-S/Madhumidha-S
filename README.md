@@ -50,8 +50,8 @@ const developer = {
 ## `<Stats />`
 
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhumidha-S&show_icons=true&theme=react&count_private=true&hide_border=true&bg_color=0D1117" alt="stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumidha-S&theme=react&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117" alt="languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhumidha-S&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumidha-S&theme=tokyonight&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117" alt="languages" height="150" />
 </div>
 
 <br />
