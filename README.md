@@ -50,6 +50,11 @@ const developer = {
 ## `<Stats />`
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Madhumidha-S&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/tokei/lines/github/Madhumidha-S/Madhumidha-S?style=flat-square&color=blue" alt="Lines of Code" />
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Madhumidha-S/Madhumidha-S/v1/github-metrics.svg" alt="Metrics" width="100%" />
 </div>
 
