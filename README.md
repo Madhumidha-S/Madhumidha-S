@@ -64,6 +64,11 @@ const developer = {
 
 <br />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br />
+
 ```javascript
 export default function Footer() {
   return (

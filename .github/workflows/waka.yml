@@ -4,6 +4,9 @@ on:
     # Runs at 12 am  '0 0 * * *'
     - cron: '0 0 * * *'
   workflow_dispatch:
+  push:
+    branches:
+      - v1
 jobs:
   update-readme:
     name: Update Readme with WakaTime Stats
