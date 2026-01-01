@@ -55,8 +55,17 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Madhumidha-S/Madhumidha-S/v1/github-metrics.svg" alt="Metrics" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhumidha-S&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumidha-S&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
+
+<br />
+
+## `<RecentArticles />`
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br />
 
