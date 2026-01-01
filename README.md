@@ -51,7 +51,6 @@ const developer = {
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Madhumidha-S&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/tokei/lines/github/Madhumidha-S/Madhumidha-S?style=flat-square&color=blue" alt="Lines of Code" />
 </div>
 
 <div align="center">
@@ -60,7 +59,7 @@ const developer = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumidha-S&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages" />
   <br/>
   <!-- Note: WakaTime Stats require a PUBLIC WakaTime profile to work in 'No-Config' mode -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Madhumidha-S&theme=highcontrast&layout=compact&hide_border=true" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Madhumidha_S&theme=highcontrast&layout=compact&hide_border=true" alt="WakaTime Stats" />
 </div>
 
 <br />
