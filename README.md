@@ -58,23 +58,20 @@ const developer = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhumidha-S&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumidha-S&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages" />
+  <br/>
+  <!-- WakaTime Card (Requires Public WakaTime Profile) -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Madhumidha-S&theme=highcontrast&layout=compact&hide_border=true" alt="WakaTime Stats" />
 </div>
 
 <br />
 
 ## `<RecentArticles />`
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<br />
-
-
-
-<br />
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<div align="center">
+  <a href="https://dev.to" target="_blank">
+    <img src="https://img.shields.io/badge/Read_My_Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Read Articles" />
+  </a>
+</div>
 
 <br />
 
