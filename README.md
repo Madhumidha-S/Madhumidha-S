@@ -55,11 +55,11 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhumidha-S&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Madhumidha-S&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumidha-S&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages" />
   <br/>
-  <!-- WakaTime Card (Requires Public WakaTime Profile) -->
+  <!-- Note: WakaTime Stats require a PUBLIC WakaTime profile to work in 'No-Config' mode -->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Madhumidha-S&theme=highcontrast&layout=compact&hide_border=true" alt="WakaTime Stats" />
 </div>
 
