@@ -80,8 +80,8 @@ Algorithms & DSA         ███░░░░░░░░░░░░░░░�
 
 <div>
   <ul>
-  <li><a href="https://dev.to/madhumidha_s/homebrew-is-not-just-a-package-manager-its-a-build-orchestrator-542j">Homebrew is Not Just a Package Manager — It’s a Build Orchestrator</a></li>
-  <li><a href="https://dev.to/madhumidha_s/developer-tooling-through-a-system-design-lens-542j">Developer Tooling Through a System Design Lens</a></li>
+  <li><a href="https://medium.com/@madhumidha22/homebrew-is-not-just-a-package-manager-its-a-build-orchestrator-8482c5cf8d45">Homebrew Is Not Just a Package Manager. It’s a Build Orchestrator</a></li>
+  <li><a href="https://medium.com/@madhumidha22/i-panic-pushed-my-api-key-to-github-at-3-am-heres-how-i-fixed-it-2df216603f4e">I Panic-Pushed My API Key to GitHub at 3 AM & Here’s How I Fixed It</a></li>
   </ul>
 </div>
 
@@ -96,5 +96,4 @@ export default function Footer() {
     </div>
   );
 }
-// 2024 © Madhumidha-S
 ```
