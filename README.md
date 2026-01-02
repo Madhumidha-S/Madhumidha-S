@@ -45,13 +45,12 @@ const developer = {
 
 </div>
 
-<br />
-
-## <DeveloperStats />
-
 <!-- > A developer-centric snapshot — how I actually work, not vanity metrics. -->
 
-### 🧠 Development Mode Distribution
+<br />
+## <DeveloperStats />
+
+### Development Mode Distribution
 
 ```text
 Building Features        ███████████░░░░░░░░   48%
@@ -60,7 +59,7 @@ Design & UX Thinking     ████░░░░░░░░░░░░░░�
 Learning / Research      ██░░░░░░░░░░░░░░░░░   10%
 ```
 
-### 📊 Codebase Personality
+### Codebase Personality
 
 ```text
 APIs & Backend Logic     ████████░░░░░░░░░░░   Node / Express
@@ -74,8 +73,6 @@ Algorithms & DSA         ███░░░░░░░░░░░░░░░�
   <br/> -->
 </div>
 
-<br />
-
 ## `<RecentArticles />`
 
 <div>
@@ -88,12 +85,14 @@ Algorithms & DSA         ███░░░░░░░░░░░░░░░�
 <br />
 
 ```javascript
-export default function Footer() {
-  return (
-    <div className="flex gap-4">
-      <Link href="mailto:madhumidha072005@gmail.com">Email</Link>
-      <Link href="https://linkedin.com/in/madhumidha-s-0579bb214/">LinkedIn</Link>
-    </div>
-  );
-}
+/**
+ * @footer
+ * @status: ACTIVE
+ * @availability: Open to collaboration
+ */
+
+const footer = {
+  email: "madhumidha072005@gmail.com",
+  linkedin: "linkedin.com/in/madhumidha-s-0579bb214"
+};
 ```
