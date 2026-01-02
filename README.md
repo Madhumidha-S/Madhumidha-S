@@ -22,6 +22,17 @@ const developer = {
 };
 ```
 
+---
+
+Currently exploring:
+• Scalable full-stack systems  
+• Developer tooling & automation  
+• AI-assisted products  
+
+Open to learning, collaboration, and building things that last.
+
+---
+
 <br />
 
 ## `<FavoriteProjects />`
