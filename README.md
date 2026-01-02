@@ -35,7 +35,7 @@ const developer = {
 
 <br />
 
-## `<TechStack />`
+## `<TechStack />
 
 <div align="center">
 
@@ -48,6 +48,7 @@ const developer = {
 <!-- > A developer-centric snapshot — how I actually work, not vanity metrics. -->
 
 <br />
+
 ## `<DeveloperStats />`
 
 ### Development Mode Distribution
