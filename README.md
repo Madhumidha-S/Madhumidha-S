@@ -35,28 +35,40 @@ const developer = {
 
 <br />
 
-## `<TechStack />`
+## <TechStack />
 
 <div align="center">
 
-| Core | Frontend | Backend | Database | Tools |
+| Core | Frontend | Backend | Database | Tools & Platforms |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js,py,java,cpp&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,java&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker&theme=dark" /> |
 
 </div>
 
 <br />
 
-## `<Stats />`
+## <DeveloperStats />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Madhumidha-S&style=flat-square&color=blue" alt="Profile Views" />
-</div>
+> A developer-centric snapshot — how I actually work, not vanity metrics.
 
-<div align="center">
-  <!-- Streak Stats are currently down (HTTP 500). Uncomment when service mirrors are back online.
-  <img src="https://streak-stats.demolab.com?user=Madhumidha-S&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  -->
+### 🧠 Development Mode Distribution
+
+```text
+Building Features        ███████████░░░░░░░░   48%
+Debugging & Refactoring  ██████░░░░░░░░░░░░░   26%
+Design & UX Thinking     ████░░░░░░░░░░░░░░░   16%
+Learning / Research      ██░░░░░░░░░░░░░░░░░   10%
+```
+
+### 📊 Codebase Personality
+
+```text
+APIs & Backend Logic     ████████░░░░░░░░░░░   Node / Flask
+Frontend & UI            ███████░░░░░░░░░░░░   React / CSS
+Automation & Bots        ████░░░░░░░░░░░░░░░   Discord / Scripts
+Algorithms & DSA         ███░░░░░░░░░░░░░░░░   C++
+```
+
   <br/>
   <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Madhumidha-S&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages" />
   <br/>
@@ -71,9 +83,10 @@ const developer = {
 ## `<RecentArticles />`
 
 <div align="center">
-  <a href="https://dev.to" target="_blank">
-    <img src="https://img.shields.io/badge/Read_My_Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Read Articles" />
-  </a>
+  <ul>
+  <li><a href="https://dev.to/madhumidha_s/homebrew-is-not-just-a-package-manager-its-a-build-orchestrator-542j">Homebrew is Not Just a Package Manager — It’s a Build Orchestrator</a></li>
+  <li><a href="https://dev.to/madhumidha_s/developer-tooling-through-a-system-design-lens-542j">Developer Tooling Through a System Design Lens</a></li>
+  </ul>
 </div>
 
 <br />
