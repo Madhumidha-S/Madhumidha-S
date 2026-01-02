@@ -70,19 +70,15 @@ Algorithms & DSA         ███░░░░░░░░░░░░░░░�
 ```
 
   <br/>
-  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Madhumidha-S&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages" />
-  <br/>
-  <!-- Switched to Official WakaTime Badge for reliability -->
-  <a href="https://wakatime.com/@Madhumidha_S">
-    <img src="https://wakatime.com/badge/user/Madhumidha_S.svg" alt="WakaTime Time" />
-  </a>
+  <!-- <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Madhumidha-S&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages" />
+  <br/> -->
 </div>
 
 <br />
 
 ## `<RecentArticles />`
 
-<div align="center">
+<div>
   <ul>
   <li><a href="https://dev.to/madhumidha_s/homebrew-is-not-just-a-package-manager-its-a-build-orchestrator-542j">Homebrew is Not Just a Package Manager — It’s a Build Orchestrator</a></li>
   <li><a href="https://dev.to/madhumidha_s/developer-tooling-through-a-system-design-lens-542j">Developer Tooling Through a System Design Lens</a></li>
