@@ -56,10 +56,10 @@ const developer = {
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Madhumidha-S&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumidha-S&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Madhumidha-S&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages" />
   <br/>
   <!-- Note: WakaTime Stats require a PUBLIC WakaTime profile to work in 'No-Config' mode -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Madhumidha_S&theme=highcontrast&layout=compact&hide_border=true" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/wakatime?username=Madhumidha_S&theme=highcontrast&layout=compact&hide_border=true" alt="WakaTime Stats" />
 </div>
 
 <br />
