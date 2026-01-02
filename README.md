@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=530&lines=%3E+initializing_portfolio...;%3E+loading_developer_profile...;%3E+Madhumidha.exe+running...;%3E+Code.+Create.+Innovate." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=530&lines=%3E+initializing_portfolio...;%3E+loading_profile...;%3E+Madhumidha.exe+running...;%3E+Code.+Create.+Innovate." alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 
 const developer = {
   name: "Madhumidha",
-  role: "Full Stack Developer | Designer",
+  role: "Developer && Designer",
   status: "Building & Learning",
   motto: "Code that matters."
 };
@@ -41,7 +41,7 @@ const developer = {
 
 | Core | Frontend | Backend | Database | Tools & Platforms |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,java&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,java&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,figma,postman,docker&theme=dark" /> |
 
 </div>
 
@@ -49,7 +49,7 @@ const developer = {
 
 ## <DeveloperStats />
 
-> A developer-centric snapshot — how I actually work, not vanity metrics.
+<!-- > A developer-centric snapshot — how I actually work, not vanity metrics. -->
 
 ### 🧠 Development Mode Distribution
 
