@@ -54,12 +54,16 @@ const developer = {
 </div>
 
 <div align="center">
+  <!-- Streak Stats are currently down (HTTP 500). Uncomment when service mirrors are back online.
   <img src="https://streak-stats.demolab.com?user=Madhumidha-S&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  -->
   <br/>
   <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Madhumidha-S&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages" />
   <br/>
-  <!-- Note: WakaTime Stats require a PUBLIC WakaTime profile to work in 'No-Config' mode -->
-  <img src="https://github-readme-stats-rickstaa.vercel.app/api/wakatime?username=Madhumidha_S&theme=highcontrast&layout=compact&hide_border=true" alt="WakaTime Stats" />
+  <!-- Switched to Official WakaTime Badge for reliability -->
+  <a href="https://wakatime.com/@Madhumidha_S">
+    <img src="https://wakatime.com/badge/user/Madhumidha_S.svg" alt="WakaTime Time" />
+  </a>
 </div>
 
 <br />
