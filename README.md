@@ -35,7 +35,7 @@ const developer = {
 
 <br />
 
-## `<TechStack />
+## `<TechStack />`
 
 <div align="center">
 
