@@ -22,17 +22,6 @@ const developer = {
 };
 ```
 
----
-
-Currently exploring:
-• Scalable full-stack systems  
-• Developer tooling & automation  
-• AI-assisted products  
-
-Open to learning, collaboration, and building things that last.
-
----
-
 <br />
 
 ## `<FavoriteProjects />`
@@ -74,10 +63,10 @@ Learning / Research      ██░░░░░░░░░░░░░░░░�
 ### 📊 Codebase Personality
 
 ```text
-APIs & Backend Logic     ████████░░░░░░░░░░░   Node / Flask
+APIs & Backend Logic     ████████░░░░░░░░░░░   Node / Express
 Frontend & UI            ███████░░░░░░░░░░░░   React / CSS
 Automation & Bots        ████░░░░░░░░░░░░░░░   Discord / Scripts
-Algorithms & DSA         ███░░░░░░░░░░░░░░░░   C++
+Algorithms & DSA         ███░░░░░░░░░░░░░░░░   C++ / Python
 ```
 
   <br/>
