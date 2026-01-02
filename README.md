@@ -1,53 +1,67 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=530&lines=%3E+initializing_portfolio...;%3E+loading_developer_profile...;%3E+Madhumidha.exe+running...;%3E+Code.+Create.+Innovate." alt="Typing SVG" />
+<h1 align="center">Hi 👋, I'm Madhumidha</h1>
+<h3 align="center">A passionate learner, developer & designer</h3>
+
+<p align="center">
+  <a href="https://github.com/Madhumidha-S">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Creative+Designer+%7C+UI%2FUX+Explorer;Code.+Design.+Innovate.;Crafting+Code+that+Connects+Ideas+with+Impact!" alt="Typing SVG">
   </a>
-</div>
+</p>
 
-<br />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Madhumidha-S&style=plastic&color=blueviolet" alt="Profile Views"/>
+  <a href="https://github.com/Madhumidha-S?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/Madhumidha-S?label=Follow&style=social" alt="GitHub Followers"/>
+  </a>
+</p>
 
-```javascript
-/**
- * @file: profile.js
- * @author: Madhumidha
- * @description: Crafting digital experiences where logic meets creativity.
- *               Specializing in building scalable web apps and intuitive interfaces.
- */
+---
 
-const developer = {
-  name: "Madhumidha",
-  role: "Full Stack Developer | Designer",
-  status: "Building & Learning",
-  motto: "Code that matters."
-};
-```
+### About Me
 
-<br />
+- Currently sharpening skills in **React**, **Node.js**, and **REST APIs**
+- Passionate about building **Full-Stack Web applications** and **Responsive UIs**
+- Interested in designing **Intuitive Interfaces** that enhance **User Experience across platforms**
+- Excited to collaborate on **Developer-focused projects** solving real-world problems
 
-## `<FavoriteProjects />`
+---
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Smart-Learn](https://github.com/Madhumidha-S/Smart-Learn)** | Intelligent adaptive learning platform. | `React` `Node` `Mongo` |
-| **[FlashTalks](https://github.com/Madhumidha-S/FlashTalks)** | Real-time messaging app with sockets. | `Socket.io` `React` |
-| **[Pip-Chatbot](https://github.com/Madhumidha-S/Pip-Chatbot)** | AI chatbot for customer support. | `Python` `NLP` `Flask` |
-| **[Crony-Cart](https://github.com/Madhumidha-S/Crony-Cart)** | Full-featured e-commerce solution. | `MERN` `Redux` |
+### Tech Stacks
 
-<br />
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## `<TechStack />`
+---
+
+### GitHub Stats
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhumidha-S&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhumidha-S&theme=radical) |
+| --- | --- |
 
 <div align="center">
 
-| Core | Frontend | Backend | Database | Tools |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js,py,java,cpp&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman&theme=dark" /> |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumidha-S&theme=radical&layout=compact)
 
 </div>
 
-<br />
+---
 
-## `<Stats />`
+### Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/madhumidha-s-0579bb214/">
@@ -64,4 +78,3 @@ const developer = {
 ---
 
 <p align="center">✨ Keep creating. Keep exploring. Keep growing. ✨</p>
-
