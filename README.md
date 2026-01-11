@@ -93,6 +93,8 @@ Algorithms & DSA         ███░░░░░░░░░░░░░░░�
 
 const footer = {
   email: "madhumidha072005@gmail.com",
-  linkedin: "linkedin.com/in/madhumidha-s-0579bb214"
+  linkedin: "linkedin.com/in/madhumidha-s-0579bb214",
+  x: "x.com/Madhumidha_22",
+  medium: "medium.com/@madhumidha22",
 };
 ```
