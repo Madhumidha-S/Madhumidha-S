@@ -40,7 +40,7 @@ const developer = {
 
 | Core | Frontend | Backend | Database | Tools & Platforms |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,java,swift&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,figma,postman,docker&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,java,swiftui&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,figma,postman,docker&theme=dark" /> |
 
 </div>
 
