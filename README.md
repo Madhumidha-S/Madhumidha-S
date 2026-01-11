@@ -23,17 +23,16 @@ const developer = {
 ```
 
 <br />
-
+<!-- 
 ## `<FavoriteProjects />`
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Smart-Learn](https://github.com/Madhumidha-S/Smart-Learn)** | Intelligent adaptive learning platform. | `React` `Node` `Mongo` |
-| **[FlashTalks](https://github.com/Madhumidha-S/FlashTalks)** | Real-time messaging app with sockets. | `Socket.io` `React` |
-| **[Pip-Chatbot](https://github.com/Madhumidha-S/Pip-Chatbot)** | AI chatbot for customer support. | `Python` `NLP` `Flask` |
-| **[Crony-Cart](https://github.com/Madhumidha-S/Crony-Cart)** | Full-featured e-commerce solution. | `MERN` `Redux` |
-
-<br />
+<!-- | Project | Description | Stack | -->
+<!-- | :--- | :--- | :--- | -->
+<!-- | **[Smart-Learn](https://github.com/Madhumidha-S/Smart-Learn)** | Intelligent adaptive learning platform. | `React` `Node` `Mongo` | -->
+<!-- | **[FlashTalks](https://github.com/Madhumidha-S/FlashTalks)** | Real-time messaging app with sockets. | `Socket.io` `React` | -->
+<!-- | **[Pip-Chatbot](https://github.com/Madhumidha-S/Pip-Chatbot)** | AI chatbot for customer support. | `Python` `NLP` `Flask` | -->
+<!-- | **[Crony-Cart](https://github.com/Madhumidha-S/Crony-Cart)** | Full-featured e-commerce solution. | `MERN` `Redux` | -->
+<!-- <br /> -->
 
 ## `<TechStack />`
 
