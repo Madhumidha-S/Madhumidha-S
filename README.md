@@ -40,7 +40,7 @@ const developer = {
 
 | Core | Frontend | Backend | Data & Cloud | Tools & Platforms |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,java,swift&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,azure,docker,githubactions&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,figma,postman,vscode,xcode,androidstudio&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,java,swift&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,azure,docker,githubactions&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,figma,postman,vscode,apple,androidstudio&theme=dark" /> |
 
 </div>
 
@@ -48,24 +48,42 @@ const developer = {
 
 <br />
 
+## `<CurrentFocus />`
+
+```javascript
+const currentFocus = {
+  building: [
+    "AI-Powered Developer Tools",
+    "Productivity Systems",
+    "Full Stack Applications"
+  ],
+
+  learning: [
+    "Agentic AI Architectures",
+    "RAG Pipelines",
+    "Cloud-Native Systems"
+  ]
+};
+```
+<br />
+
 ## `<DeveloperStats />`
 
 ### Development Mode Distribution
 
 ```text
-Building Features        ███████████░░░░░░░░   48%
-Debugging & Refactoring  ██████░░░░░░░░░░░░░   26%
-Design & UX Thinking     ████░░░░░░░░░░░░░░░   16%
-Learning / Research      ██░░░░░░░░░░░░░░░░░   10%
-```
+Building Features         ███████████░░░░░░░░   48%
+Debugging & Refactoring   ██████░░░░░░░░░░░░░   26%
+Learning / Research       ████░░░░░░░░░░░░░░░   20%
+Design & UX Thinking      ██░░░░░░░░░░░░░░░░░   6%
 
 ### Codebase Personality
 
 ```text
-APIs & Backend Logic     ████████░░░░░░░░░░░   Node / Express
-Frontend & UI            ███████░░░░░░░░░░░░   React / CSS
-Automation & Bots        ████░░░░░░░░░░░░░░░   Discord / Scripts
-Algorithms & DSA         ███░░░░░░░░░░░░░░░░   C++ / Python
+APIs & Backend Logic      ████████░░░░░░░░░░░   Node / Express / Python
+Frontend & UI             ███████░░░░░░░░░░░░   React / Next / Tailwind
+AI & Intelligent Systems  ████░░░░░░░░░░░░░░░   LLM Integrations / Agentic Design / RAG
+Algorithms & DSA          ███░░░░░░░░░░░░░░░░   C++ / Python
 ```
 
   <br/>
