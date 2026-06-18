@@ -38,9 +38,9 @@ const developer = {
 
 <div align="center">
 
-| Core | Frontend | Backend | Database | Tools & Platforms |
+| Core | Frontend | Backend | Data & Cloud | Tools & Platforms |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,java,swift&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,figma,postman,docker&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,java,swift&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,azure,docker,githubactions&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,figma,postman&theme=dark" /> |
 
 </div>
 
