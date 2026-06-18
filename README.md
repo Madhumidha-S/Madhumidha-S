@@ -36,11 +36,19 @@ const developer = {
 
 ## `<TechStack />`
 
-<div align="center">
+<!-- <div align="center">
 
 | Core | Frontend | Backend | Database | Tools & Platforms |
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,java,swift&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,figma,postman,docker&theme=dark" /> |
+
+</div> -->
+
+<div align="center">
+
+| Languages | Frontend | Backend | AI / ML | Cloud & DevOps |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,java&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" /> | 🤖 ML • LLM Apps • RAG • Agents | <img src="https://skillicons.dev/icons?i=azure,docker,githubactions,postgres,mongodb&theme=dark" /> |
 
 </div>
 
@@ -94,6 +102,7 @@ Algorithms & DSA         ███░░░░░░░░░░░░░░░�
 
 const footer = {
   email: "madhumidha072005@gmail.com",
+  personalWebsite: "madhumidha.me",
   linkedin: "linkedin.com/in/madhumidha-s-0579bb214",
   x: "x.com/Madhumidha_22",
   medium: "medium.com/@madhumidha22",
