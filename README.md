@@ -40,7 +40,7 @@ const developer = {
 
 | Core | Frontend | Backend | Data & Cloud | Tools & Platforms |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,java,swift&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,azure,docker,githubactions&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,figma,postman,vscode,apple,androidstudio&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,java,swift&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,azure,docker,githubactions&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,figma,postman,vscode,androidstudio&theme=dark" /> |
 
 </div>
 
@@ -81,9 +81,9 @@ Design & UX Thinking      ██░░░░░░░░░░░░░░░░
 
 ```text
 APIs & Backend Logic      ████████░░░░░░░░░░░   Node / Express / Python
-Frontend & UI             ███████░░░░░░░░░░░░   React / Next / Tailwind
-AI & Intelligent Systems  ████░░░░░░░░░░░░░░░   LLM Integrations / Agentic Design / RAG
-Algorithms & DSA          ███░░░░░░░░░░░░░░░░   C++ / Python
+Frontend & UI             ████░░░░░░░░░░░░░░░   React / Next / Tailwind
+AI & Intelligent Systems  ████████████░░░░░░░   LLM Integrations / Agentic Design / RAG
+Algorithms & DSA          ████████░░░░░░░░░░░   C++ / Python
 ```
 
   <br/>
