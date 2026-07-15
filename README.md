@@ -79,7 +79,6 @@ Design & UX Thinking      ██░░░░░░░░░░░░░░░░
 
 ### Codebase Personality
 
-```text
 APIs & Backend Logic      ████████░░░░░░░░░░░   Node / Express / Python
 Frontend & UI             ████░░░░░░░░░░░░░░░   React / Next / Tailwind
 AI & Intelligent Systems  ████████████░░░░░░░   LLM Integrations / Agentic Design / RAG
